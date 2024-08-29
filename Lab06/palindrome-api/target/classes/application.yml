@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: palindrome-api
+
+server:
+  port: 8081

@@ -1,0 +1,3 @@
+com\indium\WordGamesApiApplication.class
+com\indium\controller\WordController.class
+com\indium\service\WordService.class

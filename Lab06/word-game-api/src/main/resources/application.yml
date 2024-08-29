@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: word-games-api
+
+server:
+  port: 8080
+
+
+palindrome-api:
+   base-url: http://localhost:9090
